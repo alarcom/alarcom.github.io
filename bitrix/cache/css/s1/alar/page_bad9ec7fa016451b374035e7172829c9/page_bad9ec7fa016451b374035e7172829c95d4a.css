@@ -1,0 +1,29 @@
+
+
+/* Start:/local/components/cmind/clients/templates/.default/style.css?14485404061076*/
+#slider-partners .slider .item img.chb { display: block; }
+#slider-partners .slider .item img.color { display: none; }
+#slider-partners .slider .item:hover img.chb { display: none; }
+#slider-partners .slider .item:hover img.color { display: block; }
+.caroufredsel_wrapper { margin: 0 auto -30px !important; }
+#slider-partners { width: 940px; margin: 30px auto; }
+#slider-partners .slider .item {
+  width: 180px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+}
+#slider-partners .slider .item img { width: 150px; margin: 0 auto; }
+#slider-partners .arrow {
+  position: relative;
+  width: 11px;
+  height: 18px;
+  top: -18px;
+  cursor: pointer;
+}
+#slider-partners .arrow.next { background: url("../../../../../../local/components/cmind/clients/templates/.default/images/arrow.png") no-repeat right center; top: -46px; left: 930px; }
+#slider-partners .arrow.next:hover { background: url("../../../../../../local/components/cmind/clients/templates/.default/images/arrow.png") no-repeat right center; }
+#slider-partners .arrow.prev { background: url("../../../../../../local/components/cmind/clients/templates/.default/images/arrow.png") no-repeat left center; }
+#slider-partners .arrow.prev:hover { background: url("../../../../../../local/components/cmind/clients/templates/.default/images/arrow.png") no-repeat left center; }
+/* End */
+/* /local/components/cmind/clients/templates/.default/style.css?14485404061076 */

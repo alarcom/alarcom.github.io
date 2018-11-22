@@ -1,0 +1,46 @@
+
+
+/* Start:/local/components/cmind/projects/templates/.default/style.css?14485404061211*/
+/* projects */
+section.content .projects {}
+section.content .projects .items {}
+section.content .projects .items .section {
+    background-color: #1072a6;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 50px;
+    padding: 5px 10px;
+}
+section.content .projects .items .section img { float: left; margin: 0 10px 0 0; }
+section.content .projects .items .list {}
+section.content .projects .items .list .item {
+    border-bottom: 2px solid #e2e2e2;
+    padding: 15px 0 15px 50px;
+}
+section.content .projects .items .list .item:last-child { border-bottom: none; padding: 15px 0 30px 50px; }
+section.content .projects .items .list .item .city {
+    color: #858585;
+    float: right;
+    line-height: 18px;
+    padding: 0 30px 0 0;
+    text-align: left;
+    width: 130px;
+}
+section.content .projects .items .list .item .title {
+    color: #5ea6c2;
+    font-size: 20px;
+    line-height: 32px;
+    padding: 0 170px 15px 0;
+}
+section.content .projects .items .list .item .desc {
+    color: #858585;
+    line-height: 18px;
+    padding: 0 170px 0 0;
+}
+section.content .projects .items .list .item .kpi {
+    color: #5ea6c2;
+    line-height: 18px;
+    padding: 0 170px 0 0;
+}
+/* End */
+/* /local/components/cmind/projects/templates/.default/style.css?14485404061211 */

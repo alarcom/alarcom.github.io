@@ -1,0 +1,22 @@
+#dp_swf_engine { display:none; } /* Убираем странный div в FireFox */
+
+html, body { height: 100%; margin: 0; padding: 0; }
+img { border: 0; }
+.clear { clear: both; float: none; }
+.left { float: left; }
+.right { float: right; }
+.center { text-align: center; }
+header, footer, section { display: block; margin: 0; padding: 0; }
+input, textarea { outline: none; }
+textarea { resize: none; }
+dl, dt, dd { margin: 0; padding: 0; }
+ul { margin: 0; padding: 0; }
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix { zoom: 1; }
+input, textarea, select { -webkit-appearance: none; border-radius: 0; -webkit-border-radius: 0; }
+* { -webkit-tap-highlight-color: transparent; }
+/*div, a, section, article, span, img, h1, h2, h3, h4, h5 ,h6 { -webkit-user-select: none; -moz-user-select: none; }*/
+select::-ms-expand { display: none; }
+button, html input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; }
